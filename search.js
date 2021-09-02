@@ -6,6 +6,6 @@ input.addEventListener("keyup", function(event) {
    var searchvalue = keyword.replace(/ /g, "+");
    console.log(searchvalue);
    document.getElementById("searchbar").value = "";
-   window.location.href = "https://duckduckgo.com/?q="" + searchvalue;
+   window.location.href = "https://duckduckgo.com/?q=" + searchvalue;
   }
 });
