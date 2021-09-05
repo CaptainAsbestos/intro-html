@@ -94,7 +94,7 @@ a {
 }
 
 #searchbar:hover {
-    width: 100%;
+    width: 70%;
     max-width: 925px;
     box-shadow: 0px 0px 5px 5px #85990088;
     transition: 0.2s;
