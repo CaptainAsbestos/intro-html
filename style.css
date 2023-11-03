@@ -118,6 +118,7 @@ a {
     width: 100%;
     max-width: 925px;
     box-shadow: 0px 0px 3px 3px #859900;
+    border: 5px solid #85990000;
     color: #859900;
     text-shadow: 0px 0px 5px #859900;
     background-color: #002n36;
