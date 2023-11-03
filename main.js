@@ -4,6 +4,8 @@ var min = date.getMinutes();
 //document.write(hour.toLocaleString('en-US', {minimumIntegerDigits:2, useGrouping:false}) + ":" + min.toLocaleString('en-US', {minimumIntegerDigits:2, useGrouping:false}));
 //console.log("Done!");
 
+  var timeString = hour.toLocaleString('en-US', { minimumIntegerDigits: 2, useGrouping: false }) + ":" + min.toLocaleString('en-US', { minimumIntegerDigits: 2, useGrouping: false });
+
  // Update the clock display
   document.getElementById("clock").textContent = timeString;
 }
