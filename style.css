@@ -9,7 +9,7 @@
 
 #box1 {
     background-color: #073642;
-    color: #d33682;
+    color: #859900;
     margin: 10px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -18,13 +18,13 @@
     max-width: 300px;
     font-size: 32px;
     transition: transform .2s;
-      font-family: Eurostile;
+    font-family: Eurostile;
     font-weight: bold;
 }
 
 #box2 {
     background-color: #073642;
-    color: #268bd2;
+    color: #859900;
     margin: 10px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -39,7 +39,7 @@
 
 #box3 {
     background-color: #073642;
-    color: #cb4b16;
+    color: #859900;
     margin: 10px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -78,7 +78,7 @@ a {
 #box1:hover {
     transform: scale(1.0);
     color: ;
-    box-shadow: 0px 0px 5px 5px #dc322f88;
+    box-shadow: 0px 0px 5px 5px #859900;
     transition: 0.2s;
       font-family: Eurostile;
     font-weight: bold;
@@ -87,7 +87,7 @@ a {
 #box2:hover {
     transform: scale(1.0);
     color: #268bd2;
-    box-shadow: 0px 0px 5px 5px #6c71c488;
+    box-shadow: 0px 0px 5px 5px #859900;
     transition: 0.2s;
     font-family: Eurostile;
     font-weight: bold;
@@ -96,7 +96,7 @@ a {
 #box3:hover {
     transform: scale(1.0);
     color: #cb4b16;
-    box-shadow: 0px 0px 5px 5px #b5890088;
+    box-shadow: 0px 0px 5px 5px #859900;
     text-shadow: #b58900;
     transition: 0.2s;
     font-family: Eurostile;
@@ -139,7 +139,7 @@ a {
     transition: width 0.5s;
     transition-delay: 0.5s;
     text-align: center;
-    text-shadow: 0px 0px 5px #2aa198;
+    text-shadow: 0px 0px 5px #859900;
 }
 
 .site {
@@ -158,12 +158,12 @@ a {
     font-weight: bold;
     color: #859900;
     font-size: 80px;
-    text-shadow: 0px 0px 8px #2aa198;
+    text-shadow: 0px 0px 8px #859900;
 }
 
 #box1 {
     background-color: #073642;
-    color: #d33682;
+    color: #586e75;
     margin: 10px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -178,7 +178,7 @@ a {
 
 #box2 {
     background-color: #073642;
-    color: #268bd2;
+    color: #586e75;
     margin: 10px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -193,7 +193,7 @@ a {
 
 #box3 {
     background-color: #073642;
-    color: #cb4b16;
+    color: #586e75;
     margin: 10px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -231,8 +231,8 @@ a {
 
 #box1:hover {
     transform: scale(1.0);
-    color: ;
-    box-shadow: 0px 0px 5px 5px #dc322f88;
+    color: #859900;
+    box-shadow: 0px 0px 5px 5px #859900;
     transition: 0.2s;
       font-family: Eurostile;
     font-weight: bold;
@@ -240,8 +240,8 @@ a {
 
 #box2:hover {
     transform: scale(1.0);
-    color: #268bd2;
-    box-shadow: 0px 0px 5px 5px #6c71c488;
+    color: #859900;
+    box-shadow: 0px 0px 5px 5px #859900;
     transition: 0.2s;
     font-family: Eurostile;
     font-weight: bold;
@@ -249,8 +249,8 @@ a {
 
 #box3:hover {
     transform: scale(1.0);
-    color: #cb4b16;
-    box-shadow: 0px 0px 5px 5px #b5890088;
+    color: #859900;
+    box-shadow: 0px 0px 5px 5px #859900;
     text-shadow: #b58900;
     transition: 0.2s;
     font-family: Eurostile;
@@ -273,7 +273,7 @@ a {
     border-radius: 5px;
     box-shadow: 0px 0px 3px 3px #859900;
     color: #859900;
-    text-shadow: 0px 0px 5px #2aa198;
+    text-shadow: 0px 0px 5px #859900;
     background-color: #002n36;
     transition: 0.2s;
 }
@@ -293,7 +293,7 @@ a {
     transition: width 0.5s;
     transition-delay: 0.5s;
     text-align: center;
-    text-shadow: 0px 0px 5px #2aa198;
+    text-shadow: 0px 0px 5px #859900;
 }
 
 .site {
