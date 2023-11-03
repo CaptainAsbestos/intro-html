@@ -86,7 +86,7 @@ a {
 
 #box2:hover {
     transform: scale(1.0);
-    color: #268bd2;
+    color: #859900;
     box-shadow: 0px 0px 5px 5px #859900;
     transition: 0.2s;
     font-family: Eurostile;
@@ -95,9 +95,9 @@ a {
 
 #box3:hover {
     transform: scale(1.0);
-    color: #cb4b16;
+    color: #859900;
     box-shadow: 0px 0px 5px 5px #859900;
-    text-shadow: #b58900;
+    text-shadow: #859900;
     transition: 0.2s;
     font-family: Eurostile;
     font-weight: bold;
@@ -119,7 +119,7 @@ a {
     border-radius: 5px;
     box-shadow: 0px 0px 3px 3px #859900;
     color: #859900;
-    text-shadow: 0px 0px 5px #2aa198;
+    text-shadow: 0px 0px 5px #859900;
     background-color: #002n36;
     transition: 0.2s;
 }
@@ -128,7 +128,7 @@ a {
     width: 100%;
     height: 45px;
     max-width: 925px;
-    border: 5px solid #268bd200;
+    border: 5px solid #85990000;
     background-color: #073642;
     color: #859900;
     font-family: inherit;
@@ -251,7 +251,7 @@ a {
     transform: scale(1.0);
     color: #859900;
     box-shadow: 0px 0px 5px 5px #859900;
-    text-shadow: #b58900;
+    text-shadow: #859900;
     transition: 0.2s;
     font-family: Eurostile;
     font-weight: bold;
@@ -282,7 +282,7 @@ a {
     width: 100%;
     height: 45px;
     max-width: 925px;
-    border: 5px solid #268bd200;
+    border: 5px solid #85990000;
     background-color: #073642;
     color: #859900;
     font-family: inherit;
