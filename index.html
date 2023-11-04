@@ -7,7 +7,25 @@
     <body>
         <div class="site">
             <div align="center" id="clock">
-                <script src="main.js"></script>
+               <!-- <script src="main.js"></script>-->
+                <script>
+function updateClock() {
+  var date = new Date();
+  var hour = date.getHours();
+  var min = date.getMinutes();
+  
+  var timeString = hour.toLocaleString('en-US', { minimumIntegerDigits: 2, useGrouping: false }) + ":" + min.toLocaleString('en-US', { minimumIntegerDigits: 2, useGrouping: false });
+  
+  // Update the clock display by modifying the HTML element with the id "clock"
+  document.getElementById("clock").textContent = timeString;
+}
+
+// Initial call to update the clock
+updateClock();
+
+// Set up an interval to update the clock every minute (60000 milliseconds)
+setInterval(updateClock, 60000);
+</script>
             </div>
             <div align="center" class="search">
                <! <input type="text" id="searchbar" placeholder=" search with duck duck go...">
