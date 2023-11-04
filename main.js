@@ -12,9 +12,7 @@ function updateClock() {
   var timeString = hour.toLocaleString('en-US', { minimumIntegerDigits: 2, useGrouping: false }) + ":" + min.toLocaleString('en-US', { minimumIntegerDigits: 2, useGrouping: false });
   
   // Clear the document and write the updated time
-  document.open();
-  document.write(timeString);
-  document.close();
+  document.getElementById("clock").textContent = timeString;
 }
 
 // Initial call to update the clock
