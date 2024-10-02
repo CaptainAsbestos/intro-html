@@ -20,7 +20,7 @@
     max-width: 300px;
     font-size: 32px;
     transition: transform .2s;
-      font-family: Eurostile;
+      font-family: Eurostile,CMU Sans Serif,QTEurotype;
     font-weight: bold;
 }
 
@@ -35,7 +35,7 @@
     max-width: 300px;
     font-size: 32px;
     transition: transform .2s;
-      font-family: Eurostile;
+      font-family: Eurostile,CMU Sans Serif,QTEurotype;
     font-weight: bold;
 }
 
@@ -50,7 +50,7 @@
     max-width: 300px;
     font-size: 32px;
     transition: transform .2s;
-      font-family: Eurostile;
+      font-family: Eurostile,CMU Sans Serif,QTEurotype;
     font-weight: bold;
 }
 
@@ -82,7 +82,7 @@ a {
     color: #859900;
     box-shadow: 0px 0px 5px 5px #85990088;
     transition: 0.2s;
-      font-family: Eurostile;
+      font-family: Eurostile,CMU Sans Serif,QTEurotype;
     font-weight: bold;
 }
 
@@ -91,7 +91,7 @@ a {
     color: #859900;
     box-shadow: 0px 0px 5px 5px #85990088;
     transition: 0.2s;
-    font-family: Eurostile;
+    font-family: Eurostile,CMU Sans Serif,QTEurotype;
     font-weight: bold;
 }
 
@@ -101,7 +101,7 @@ a {
     box-shadow: 0px 0px 5px 5px #85990088;
     text-shadow: #859900;
     transition: 0.2s;
-    font-family: Eurostile;
+    font-family: Eurostile,CMU Sans Serif,QTEurotype;
     font-weight: bold;
 }
 
@@ -150,7 +150,7 @@ a {
     top:50%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
-    font-family: Hack;
+    font-family: Hack,CMU Typewriter,Hack Nerd Font;
 }
 
 
